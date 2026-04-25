@@ -1,0 +1,11 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+
+streamlit>=1.35.0
+opencv-python-headless==4.9.0.80
+numpy>=1.26.0
+Pillow>=10.3.0
+
+# YOLO inference
+ultralytics>=8.3.0
+torch>=2.4.0
+torchvision>=0.19.0
