@@ -1,7 +1,6 @@
 git lfs install
 git lfs track "*.pt"
 git add .gitattributes
-git add models/egg_model.pt
-git add models/coin_model.pt
+git add egg.pt
 git commit -m "Add large design file using LFS"
 git push origin main
