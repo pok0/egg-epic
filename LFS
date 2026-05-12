@@ -1,6 +1,6 @@
 git lfs install
 git lfs track "*.pt"
 git add .gitattributes
-git add path/to/largefile.psd
+git add models/coin_model.pt
 git commit -m "Add large design file using LFS"
 git push origin main
