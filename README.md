@@ -1,0 +1,13 @@
+---
+title: egg analysis
+emoji: 🚀
+colorFrom: blue
+colorTo: green
+sdk: streamlit
+app_file: app.py
+pinned: false
+license: CC BY-NC 4.0
+---
+# epic egg
+This is an thai egg analysis model, you can input an egg image which would then analyze its length and width(with coins or known egg size)
+then it will tell you various value of that egg like its volume, weight, mass, the amount of protein, egg white, egg yolk and its nutrients. base on mathematical formula
