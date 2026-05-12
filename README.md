@@ -1,11 +1,11 @@
 ---
 title: egg analysis
 emoji: 🚀
-colorFrom: blue
-colorTo: green
-sdk: streamlit
+colorFrom: purple
+colorTo: indigo
+sdk: docker
 app_file: app.py
-pinned: false
+pinned: true
 license: CC BY-NC 4.0
 ---
 # epic egg
