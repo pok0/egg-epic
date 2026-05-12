@@ -1,3 +1,2 @@
-git lfs install
 git lfs migrate import --include="*.pt" --everything
 git push --force origin main
