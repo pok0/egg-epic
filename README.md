@@ -3,8 +3,7 @@ title: egg analysis app
 emoji: 🥚
 colorFrom: purple
 colorTo: indigo
-sdk: docker
-app_port: 8501
+sdk: streamlit
 pinned: true
 license: cc-by-nc-4.0
 ---
