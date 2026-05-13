@@ -6,7 +6,7 @@ colorTo: indigo
 sdk: docker
 app_file: app.py
 pinned: true
-license: CC-BY-NC 4.0
+license: cc-by-nc 4.0
 ---
 # epic egg
 This is an thai egg analysis model, you can input an egg image which would then analyze its length and width(with coins or known egg size)
